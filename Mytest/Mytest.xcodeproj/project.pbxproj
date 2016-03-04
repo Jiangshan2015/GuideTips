@@ -13,6 +13,7 @@
 		E49FC0C81C897C4A00CB07A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E49FC0C61C897C4A00CB07A4 /* Main.storyboard */; };
 		E49FC0CA1C897C4B00CB07A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E49FC0C91C897C4B00CB07A4 /* Assets.xcassets */; };
 		E49FC0CD1C897C4B00CB07A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E49FC0CB1C897C4B00CB07A4 /* LaunchScreen.storyboard */; };
+		E49FC0D61C897C9200CB07A4 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E49FC0D51C897C9200CB07A4 /* FirstViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		E49FC0C91C897C4B00CB07A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E49FC0CC1C897C4B00CB07A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E49FC0CE1C897C4B00CB07A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E49FC0D41C897C9200CB07A4 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		E49FC0D51C897C9200CB07A4 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				E49FC0C11C897C4A00CB07A4 /* AppDelegate.m */,
 				E49FC0C31C897C4A00CB07A4 /* ViewController.h */,
 				E49FC0C41C897C4A00CB07A4 /* ViewController.m */,
+				E49FC0D41C897C9200CB07A4 /* FirstViewController.h */,
+				E49FC0D51C897C9200CB07A4 /* FirstViewController.m */,
 				E49FC0C61C897C4A00CB07A4 /* Main.storyboard */,
 				E49FC0C91C897C4B00CB07A4 /* Assets.xcassets */,
 				E49FC0CB1C897C4B00CB07A4 /* LaunchScreen.storyboard */,
@@ -152,6 +157,7 @@
 				E49FC0C51C897C4A00CB07A4 /* ViewController.m in Sources */,
 				E49FC0C21C897C4A00CB07A4 /* AppDelegate.m in Sources */,
 				E49FC0BF1C897C4A00CB07A4 /* main.m in Sources */,
+				E49FC0D61C897C9200CB07A4 /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +304,7 @@
 				E49FC0D31C897C4B00CB07A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
