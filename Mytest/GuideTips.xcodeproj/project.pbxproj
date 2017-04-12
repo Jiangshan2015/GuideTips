@@ -45,7 +45,7 @@
 		E49FC0B11C897C4A00CB07A4 = {
 			isa = PBXGroup;
 			children = (
-				E49FC0BC1C897C4A00CB07A4 /* Mytest */,
+				E49FC0BC1C897C4A00CB07A4 /* GuideTips */,
 				E49FC0BB1C897C4A00CB07A4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,7 +58,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E49FC0BC1C897C4A00CB07A4 /* Mytest */ = {
+		E49FC0BC1C897C4A00CB07A4 /* GuideTips */ = {
 			isa = PBXGroup;
 			children = (
 				E49FC0C01C897C4A00CB07A4 /* AppDelegate.h */,
@@ -73,6 +73,7 @@
 				E49FC0CE1C897C4B00CB07A4 /* Info.plist */,
 				E49FC0BD1C897C4A00CB07A4 /* Supporting Files */,
 			);
+			name = GuideTips;
 			path = Mytest;
 			sourceTree = "<group>";
 		};
@@ -118,7 +119,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E49FC0B51C897C4A00CB07A4 /* Build configuration list for PBXProject "Mytest" */;
+			buildConfigurationList = E49FC0B51C897C4A00CB07A4 /* Build configuration list for PBXProject "Guide" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -288,7 +289,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E49FC0B51C897C4A00CB07A4 /* Build configuration list for PBXProject "Mytest" */ = {
+		E49FC0B51C897C4A00CB07A4 /* Build configuration list for PBXProject "Guide" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E49FC0CF1C897C4B00CB07A4 /* Debug */,
